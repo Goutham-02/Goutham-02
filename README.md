@@ -43,19 +43,19 @@ I'm a passionate **AIML enthusiast**, **Prompt Engineer**, and **Full Stack MERN
 
 ## 📊 GitHub Stats
 
-![Goutham-02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutham-02&show_icons=true&hide_title=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-02&layout=compact&theme=vue-dark)
+![🔥 My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goutham-02&show_icons=true&hide_title=true&theme=vue-dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Goutham-02)
+![💻 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goutham-02&layout=compact&theme=vue-dark)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/goutham002/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goutham002/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/goutham_shastry/)
-[![Website](https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=vercel)](https://goutham02.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=vercel&logoColor=white)](https://goutham02.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/goutham_0209)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FC5500?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/gouthamshastry02/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gouthamas0209@gmail.com)
 
 ---
-
-> _“Code. Learn. Innovate. Repeat.”_
