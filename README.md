@@ -30,10 +30,14 @@ I'm a passionate **AIML enthusiast**, **Prompt Engineer**, and **Full Stack MERN
 
 ---
 
-## 📌 Pinned Projects
+## 🧠 My Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Goutham-02&repo=prompt-engineering-lab&theme=vue-dark)](https://github.com/Goutham-02/prompt-engineering-lab)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Goutham-02&repo=mern-ai-dashboard&theme=vue-dark)](https://github.com/Goutham-02/mern-ai-dashboard)
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [🎥 youtube-backend](https://github.com/Goutham-02/youtube-backend) | Backend service for a YouTube-like app with REST APIs. | Node.js, Express, MongoDB | — |
+| [🛡️ Network-IDS](https://github.com/Goutham-02/Network-IDS) | Network Intrusion Detection System using machine learning. | Python, Scikit-learn, Pandas | — |
+| [📝 my-notes](https://github.com/Goutham-02/my-notes) | A simple personal notes application for organizing thoughts. | JavaScript, HTML/CSS | — |
+| [🏴‍☠️ treasurehunt](https://github.com/Goutham-02/treasurehunt) | Interactive treasure hunt game with engaging puzzles. | Next.js, Tailwind CSS | [Play Now](https://treasurehunt-dheemahi.vercel.app/) |
 
 ---
 
